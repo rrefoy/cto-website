@@ -2,7 +2,7 @@
 firstname: Richard  
 lastname: Bright
 photo:
-role:
+role: Director, Solutions Strategy Division
 email: richard.bright@gsa.gov
-ordering: 10
+ordering: 3
 ---
